@@ -1,4 +1,4 @@
-# CheapGhettoRocket  
+# Rocket  
 ⚠️ **This project is protected under CC BY-NC 4.0.**  
 
 You may read and share this for educational purposes, but you may **not** copy or reproduce the entire project without permission.  
