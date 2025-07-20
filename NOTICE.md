@@ -1,8 +1,8 @@
-# Rocket  
+# gaseous lamp
 ⚠️ **This project is protected under CC BY-NC 4.0.**  
 
 You may read and share this for educational purposes, but you may **not** copy or reproduce the entire project without permission.  
 
-If you use parts of this work, please credit me and link back to this repository.
+If you use parts of this work, please credit me and link back to this repository. 
 
-Also, I am not to be held accountable if you use my recipie and get harmed in the process, keep in mind **this is illegal to burn or to own in most 1st world countries.**
+Additionally, I am not liable if you use my recipe and are harmed in the process. Keep in mind that this **involves a lethally high voltage**
