@@ -1,0 +1,17 @@
+This is the process of creating the nitrogen lamp, hypothesis and method of experiment. 
+
+Explanation:
+
+Nitrogen is a non-flammable, colourless, odourless, and tasteless gas that makes up about 78% of the Earth's atmosphere.
+With an atomic number of 7, Nitrogen is low density and is a crutial role in science and nature. It works as a replacement
+for neon in a neon lamp, but not well. The color shifts — not the sharp orange-red like neon. Nitrogen gives a dim violet-pink,
+and it’s not consistent. That’s probably because it’s a diatomic gas, so the emission comes from molecular transitions, not atomic 
+lines like neon. Less efficient, more spread out across the spectrum. Breakdown voltage is noticeably higher. Neon fires up at around 90V
+in a standard tube, but nitrogen needs over 200V to sustain a glow. That tracks with Paschen’s curve — more energy needed to ionize N₂ molecules.
+And once it's running, the discharge is unstable. Flickers a lot unless the pressure and electrode distance are dialed in perfectly.
+
+Requirements:
+
+In a normal neon lamp, for example the old ones made by General Electric (GE), the envelope is made from glass and has a size of around
+10mm. 2 electrodes would be inside, made from either nickel or iron, with about 2mm of space between (depending on size). Then the desired gas would fill the
+glass tube at low pressure. The pressure would only be a mere 1 to 20 torr; for context the air pressure is around 760 torr.
